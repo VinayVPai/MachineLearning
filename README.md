@@ -27,3 +27,6 @@
     * Session 2 (1.5 hrs): Transfer Learning
     * Session 3 (1.5 hrs): Style Transfer for Images
     * Session 4 (1.0 hrs): Style Transfer for Videos
+
+
+Good Demos - https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List
