@@ -1,6 +1,6 @@
 # deep-learning-bdap
 
-1. Pre-reading Material
+1. [Pre-reading Material](https://github.com/soumendra/deep-learning-bdap/blob/master/Resources)
 2. Day 1
     * Session 1 (1.5 hrs): Introduction to Deep Learning
     * Session 2 (1.5 hrs): Introduction to Convolutional Neural Networks I
@@ -11,6 +11,3 @@
     * Session 2 (1.5 hrs): Transfer Learning
     * Session 3 (1.5 hrs): Style Transfer for Images
     * Session 4 (1.0 hrs): Style Transfer for Videos
-
-
-Good Demos - https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List
