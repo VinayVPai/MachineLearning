@@ -1,5 +1,7 @@
-[Pre-reading Material](https://github.com/soumendra/deep-learning-bdap/blob/master/resources/resources.md)
-
+* [Pre-reading Material](https://github.com/soumendra/deep-learning-bdap/blob/master/resources/resources.md)
+* Slides
+    - [Part 1](https://slides.com/soumendrap/deck-3/)
+    - [Part 2](https://slides.com/soumendrap/deck-2-3/)
 
 # Setting Up
 
