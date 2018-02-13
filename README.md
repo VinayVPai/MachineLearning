@@ -1,13 +1,45 @@
-# deep-learning-bdap
+[Pre-reading Material](https://github.com/soumendra/deep-learning-bdap/blob/master/resources/resources.md)
 
-1. [Pre-reading Material](https://github.com/soumendra/deep-learning-bdap/blob/master/Resources)
-2. Day 1
-    * Session 1 (1.5 hrs): Introduction to Deep Learning
-    * Session 2 (1.5 hrs): Introduction to Convolutional Neural Networks I
-    * Session 3 (1.5 hrs): Introduction to Convolutional Neural Networks II
-    * Session 4 (1.0 hrs): Hands-on with Keras
-3. Day 2
-    * Session 1 (1.5 hrs): Training a Deep Network in the cloud
-    * Session 2 (1.5 hrs): Transfer Learning
-    * Session 3 (1.5 hrs): Style Transfer for Images
-    * Session 4 (1.0 hrs): Style Transfer for Videos
+
+# Setting Up
+
+## Ubuntu
+
+```bash
+sudo apt-get install build-essential cmake pkg-config
+sudo apt-get install libjpeg8-dev libtiff5-dev libjasper-dev libpng12-dev
+sudo apt-get install libgtk2.0-dev
+sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+sudo apt-get install libatlas-base-dev gfortran
+sudo apt-get install libboost-all-dev
+sudo apt-get install python-dev
+
+sudo apt-get install ubuntu-restricted-extras
+sudo apt-get install ubuntu-restricted-addons
+sudo apt-get install vlc
+sudo apt-get install mencoder mplayer
+```
+
+## macos
+
+* xcode
+* xcode clt
+* homebrew
+
+```bash
+brew install boost --with-python
+brew install boost-python
+brew list | grep 'boost'
+    > boost
+    > boost-python
+brew tap homebrew/science
+brew install opencv
+```
+
+## Installing the conda environment
+
+After cloning this repo:
+
+```bash
+conda env create -f cv.yml
+```
