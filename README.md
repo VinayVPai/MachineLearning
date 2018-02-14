@@ -1,5 +1,6 @@
 * [Pre-reading Material](https://github.com/soumendra/deep-learning-bdap/blob/master/resources/resources.md)
 * [Slides](https://slides.com/soumendrap/deck-3/)
+* [Guide to setup anaconda environments](https://github.com/soumendra/python-machinelearning-setup/blob/master/setup_environments.md)
 
 # Setting Up
 
