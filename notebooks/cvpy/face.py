@@ -14,7 +14,7 @@ def plotBGR2RGB(img):
 
 # Given an image matrix and a cascade, detects a face,
 # draws a rectangle around it, and returns it
-def face_detector(image, cascade="/Users/soumendra/anaconda3/pkgs/opencv3-3.1.0-py35_0/share/OpenCV/haarcascades/haarcascade_frontalface_default.xml"):
+def face_detector(image, cascade="/Users/soumendra/miniconda3/pkgs/opencv3-3.1.0-py35_0/share/OpenCV/haarcascades/haarcascade_frontalface_default.xml"):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
     detector = cv2.CascadeClassifier(cascade)
